@@ -6,7 +6,7 @@ def using_insert
   
 end
 
-def using_insert
+def using_uniq
   
 end
 
